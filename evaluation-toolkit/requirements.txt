@@ -1,0 +1,4 @@
+numpy==1.26.3
+rouge_score==0.1.2
+sentence-transformers==2.2.2
+torch==2.1.2
