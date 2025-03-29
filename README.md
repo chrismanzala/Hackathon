@@ -1,1 +1,2 @@
 # Hackathon
+This project focuses on training an NLP model to automatically summarize professional legal texts. By leveraging state-of-the-art natural language processing techniques, the model aims to enhance information retrieval, reduce reading time, and improve decision-making efficiency. The approach involves fine-tuning a transformer-based model on domain-specific data to ensure high accuracy and relevance in summarization.
